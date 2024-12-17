@@ -63,4 +63,4 @@ I learnt how to add my own custom font sizing and style by adding the following 
 
 ## Author
 
-- Frontend Mentor - [@aosull97](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@aosull97](https://www.frontendmentor.io/profile/aosull97)
